@@ -1,3 +1,4 @@
+<img src="cover.png" alt="cover photo">
 <h1 align="center">Hi there👋, I'm Faizan</h1>
 
 <div align="center">
