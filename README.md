@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi there👋, I'm Faizan</h1>
+<h1 align="left">Hi, I'm Faizan</h1>
 
 
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
